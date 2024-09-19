@@ -9,7 +9,8 @@ Draw Handling: Displays a "Draw" message if the game ends without a winner.
 Game Reset: Resets the game board and scores for new rounds.
 User-Friendly Interface: Simple and engaging design for easy gameplay.
 Screenshots
-![tictacctoe_1](https://github.com/user-attachments/assets/ba38f93b-c6c8-47aa-a7b8-0f89d7e6f8e4)   ![Tictactoe_2](https://github.com/user-attachments/assets/de198227-a554-4495-8693-2471a21d0a74)
+![tictacctoe_1](https://github.com/user-attachments/assets/ba38f93b-c6c8-47aa-a7b8-0f89d7e6f8e4)  
+![Tictactoe_2](https://github.com/user-attachments/assets/de198227-a554-4495-8693-2471a21d0a74)
 
 
 
